@@ -10,10 +10,14 @@ El proyecto trabaja con datos reales de **TomTom Traffic Index** y **OECD Cities
 
 ## Cómo abrir el notebook en Google Colab
 
-Puedes abrir y ejecutar este archivo directamente en tu navegador usando Google Colab mediante el siguiente enlace:
+Haz clic en el siguiente botón:
 
-- [Abrir en Google Colab](https://colab.research.google.com/drive/1wGsDTDRij0SDuKXaUV9Bx53MHkBruBR4?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wGsDTDRij0SDuKXaUV9Bx53MHkBruBR4?usp=sharing)
 
+O:
+
+1. Abre el archivo `.ipynb` en GitHub
+2. Haz clic en [**Open in Colab**](https://colab.research.google.com/drive/1wGsDTDRij0SDuKXaUV9Bx53MHkBruBR4?usp=sharing)
 ## Objetivo del análisis
 
 - **Evaluar cómo la movilidad urbana se relaciona con la productividad económica** en las principales ciudades latinoamericanas[cite: 1].
