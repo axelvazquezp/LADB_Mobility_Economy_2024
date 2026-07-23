@@ -8,6 +8,12 @@ El proyecto trabaja con datos reales de **TomTom Traffic Index** y **OECD Cities
 
 - `notebooks/S5_ladb_mobility_economy_project_.ipynb`: Notebook principal que incluye la carga, limpieza, estandarización de columnas, conversión de tipos de datos, filtrado por año (2024), agrupación por promedios de tráfico, cruce con indicadores económicos y visualizaciones analíticas.
 
+## Cómo abrir el notebook en Google Colab
+
+Puedes abrir y ejecutar este archivo directamente en tu navegador usando Google Colab mediante el siguiente enlace:
+
+- [Abrir en Google Colab](https://colab.research.google.com/drive/1wGsDTDRij0SDuKXaUV9Bx53MHkBruBR4?usp=sharing)
+
 ## Objetivo del análisis
 
 - **Evaluar cómo la movilidad urbana se relaciona con la productividad económica** en las principales ciudades latinoamericanas[cite: 1].
