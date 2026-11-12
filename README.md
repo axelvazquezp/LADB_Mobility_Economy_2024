@@ -62,7 +62,9 @@ El núcleo técnico del proyecto radica en la ingesta, limpieza profunda y combi
 ### 📓 Notebook del Proyecto en Google Colab
 Haz clic en la insignia inferior para acceder directamente al entorno interactivo y reproducible en Google Colab para auditar el código, las uniones de datos y las gráficas estadísticas:
 
-[![Colab](https://google.com)](https://colab.research.google.com/drive/1wGsDTDRij0SDuKXaUV9Bx53MHkBruBR4)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wGsDTDRij0SDuKXaUV9Bx53MHkBruBR4)
+
+O también puedes usar este enlace directo: [Abrir en Google Colab](https://colab.research.google.com/drive/1wGsDTDRij0SDuKXaUV9Bx53MHkBruBR4)
 
 ---
 
